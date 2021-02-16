@@ -1,1 +1,1 @@
-Forwardbot: python -m foreward
+worker: python3 forward.py
