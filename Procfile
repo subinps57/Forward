@@ -1,1 +1,1 @@
-Forwardbot: python foreward.py
+Forwardbot: python -m foreward
