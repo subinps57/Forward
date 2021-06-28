@@ -1,0 +1,11 @@
+---
+application:
+  name: "forward"
+  project: "musicdss"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-forward"
+  routes:
+  - application_name: "forward"
+    paths:
+    - "/*"
